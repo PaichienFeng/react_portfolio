@@ -42,3 +42,17 @@ npm test
     
 ## Questions
 If you have any questions about the repo, open an issue or contact me directly at b8350580@gmail.com. You can find more of my work at [PaichienFeng](https://github.com/PaichienFeng).
+
+
+# Deployed Link
+https://paichienfeng.github.io/Paichien-Feng-s-Portfolio/#contact-me
+
+
+# Screenshot
+![Screenshot](src/components/pages/img/Screenshot%202023-08-17%20121712.png)
+
+![Screenshot](src/components/pages/img/Screenshot%202023-08-17%20121823.png)
+
+![Screenshot](src/components/pages/img/Screenshot%202023-08-17%20122438.png)
+
+![Screenshot](src/components/pages/img/Screenshot%202023-08-17%20122529.png)
