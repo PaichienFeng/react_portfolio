@@ -16,7 +16,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 
 const router = createBrowserRouter([
     {
-        path: "/",
+        path: "/react_portfolio/",
         element: (
           <div>
             <Header/>
@@ -26,7 +26,7 @@ const router = createBrowserRouter([
         ),
       },
       {
-        path: "/project",
+        path: "/react_portfolio/project",
         element: (
           <div>
             <Header/>
@@ -36,7 +36,7 @@ const router = createBrowserRouter([
         ),
       },
       {
-          path: "/contact",
+          path: "/react_portfolio/contact",
           element: (
             <div>
               <Header/>
@@ -46,7 +46,7 @@ const router = createBrowserRouter([
           ),
         },
         {
-          path: "/resume",
+          path: "/react_portfolio/resume",
           element: (
             <div>
               <Header/>
