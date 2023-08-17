@@ -1,0 +1,36 @@
+.container{
+    min-height: 500px;
+    margin-left: 50px;
+    margin-right:50px;
+
+    h4{
+        margin-top: 5px;
+        margin-bottom: 5px;
+
+    }
+
+    input{
+        margin-bottom: 10px;
+        border-radius: 3px;
+    }
+    .button{
+        background-color: #f2ab06;
+        color: aliceblue;
+        &:hover{
+            background-color: #ba860a;
+        }
+    }
+
+    .nameText{
+        min-height: 20px;
+        min-width: 400px;
+    }
+    .emailText{
+        min-height: 20px;
+        min-width: 400px;
+    }
+    .messageText{
+        min-height: 100px;
+        min-width: 400px;
+    }
+}
