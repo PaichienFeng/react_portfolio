@@ -45,7 +45,7 @@ If you have any questions about the repo, open an issue or contact me directly a
 
 
 # Deployed Link
-https://paichienfeng.github.io/Paichien-Feng-s-Portfolio/#contact-me
+https://paichienfeng.github.io/react_portfolio/
 
 
 # Screenshot
@@ -56,3 +56,7 @@ https://paichienfeng.github.io/Paichien-Feng-s-Portfolio/#contact-me
 ![Screenshot](src/components/pages/img/Screenshot%202023-08-17%20122438.png)
 
 ![Screenshot](src/components/pages/img/Screenshot%202023-08-17%20122529.png)
+     
+
+
+     
