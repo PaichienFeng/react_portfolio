@@ -82,19 +82,19 @@ export default function CustomizedMenus() {
         open={open}
         onClose={handleClose}
       >
-         <Link className={css.burgerLink} to='/'>
+         <Link className={css.burgerLink} to='/react_portfolio/'>
         <MenuItem onClick={handleClose} disableRipple>
        Home
         </MenuItem></Link>
-        <Link className={css.burgerLink} to='/contact'>
+        <Link className={css.burgerLink} to='/react_portfolio/contact'>
         <MenuItem onClick={handleClose} disableRipple>
         Contact
         </MenuItem></Link>
-        <Link className={css.burgerLink} to='/project'>
+        <Link className={css.burgerLink} to='/react_portfolio/project'>
         <MenuItem onClick={handleClose} disableRipple>
         Portfolio
         </MenuItem></Link>
-        <Link className={css.burgerLink} to='/resume'>
+        <Link className={css.burgerLink} to='/react_portfolio/resume'>
         <MenuItem onClick={handleClose} disableRipple>
         Resume
         </MenuItem></Link>
