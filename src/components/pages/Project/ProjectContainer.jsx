@@ -5,7 +5,8 @@ import color from '../img/color.webp';
 import explore from '../img/explore.jpg';
 import note from '../img/note.jpg';
 import password from '../img/password.jpg';
-import weather from '../img/weather.jpg'
+import weather from '../img/weather.jpg';
+import barchart from '../img/barchart.png'
 
 import Project from "./Project";
 
@@ -52,7 +53,14 @@ const repoArray =
       img: password,
       githubLink: 'https://github.com/PaichienFeng/Password-Generator',
       deployedLink: 'https://paichienfeng.github.io/Password-Generator/'
-    }
+    },
+    {
+      title: 'Scurvee_com',
+      module: 'React',
+      img: barchart,
+      githubLink: 'https://github.com/PaichienFeng/scurvee_com',
+      deployedLink: 'https://scurvee-com-66ca99bee111.herokuapp.com/'
+    },
   ]
 // Whenever we try to render an array containing JSX, React knows to render each JSX element separately
 function ProjectContainer() {
