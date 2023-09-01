@@ -6,7 +6,7 @@ export default function About() {
     <div className={css.container}>
       <h1>Resume</h1>
      <h4>
-      Download my <a target='_blank' className={css.resume} href="https://docs.google.com/document/d/1a6MiozKCZr-fOv7Oic0QW7-SySEQ4qKe6NQY30Kydjk/edit?usp=drive_link">resume</a>
+      Download my <a target='_blank' className={css.resume} href="https://docs.google.com/document/d/1AUh3qcDqlsQumw33-8dht2cj-VtVc2nxf-z2u_hKjrM/edit">resume</a>
      </h4>
      <h2>Front-end Proficiencies</h2>
 
